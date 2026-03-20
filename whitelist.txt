@@ -1,3 +1,5 @@
+@@||scene7.omarea.com^$important
+@@||raw.githubusercontent.com^$important
 @@||intro.limestart.cn^
 @@||limestart.cn^
 @@||www.hisense.com^
