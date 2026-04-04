@@ -1,3 +1,4 @@
+@@||ads.iconntech.com^$important
 @@||ark.cn-beijing.volces.com^$client='10.20.0.1'
 @@||api.seayoo.com^$important
 @@||fp-it-tracker.fengkongcloud.com^$important
