@@ -1,3 +1,5 @@
+
+@@||app-measurement.com^$important
 @@||stars.shuqireader.com^$important
 @@||adashx.ut.shuqi.com^$important
 @@||hyperos.developer.xiaomi.com^$important
